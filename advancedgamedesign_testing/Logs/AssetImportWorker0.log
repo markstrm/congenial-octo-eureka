@@ -225,3 +225,20 @@ Received Import Request.
 Start importing Assets/materials/Part3 1.mat using Guid(5a7b43112e1fd294bb69fa186d8f648a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5451dc88b3c403ab1fe89aedfe176c8') in 0.011358 seconds 
   Import took 0.013943 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 10922.218777 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6977fd25976c5b6989f0c5ecda23792e') in 0.022664 seconds 
+  Import took 0.068345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.342726 seconds.
+  path: Assets/Scenes/Puzzle pyramid.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Puzzle pyramid.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e71c2c61ef055f78458c12504a4943') in 0.003474 seconds 
+  Import took 0.007906 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
