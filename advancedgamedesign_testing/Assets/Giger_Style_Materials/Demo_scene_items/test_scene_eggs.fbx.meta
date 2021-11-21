@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: b6a310bcbbf264948b651c62da5a5632
+timeCreated: 1529428949
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: egg_1
+    100004: egg_10
+    100006: egg_11
+    100008: egg_12
+    100010: egg_13
+    100012: egg_14
+    100014: egg_2
+    100016: egg_3
+    100018: egg_4
+    100020: egg_5
+    100022: egg_6
+    100024: egg_7
+    100026: egg_8
+    100028: egg_9
+    100030: egg_base_1
+    100032: egg_base_10
+    100034: egg_base_11
+    100036: egg_base_12
+    100038: egg_base_13
+    100040: egg_base_14
+    100042: egg_base_2
+    100044: egg_base_3
+    100046: egg_base_4
+    100048: egg_base_5
+    100050: egg_base_6
+    100052: egg_base_7
+    100054: egg_base_8
+    100056: egg_base_9
+    100058: platform
+    400000: //RootNode
+    400002: egg_1
+    400004: egg_10
+    400006: egg_11
+    400008: egg_12
+    400010: egg_13
+    400012: egg_14
+    400014: egg_2
+    400016: egg_3
+    400018: egg_4
+    400020: egg_5
+    400022: egg_6
+    400024: egg_7
+    400026: egg_8
+    400028: egg_9
+    400030: egg_base_1
+    400032: egg_base_10
+    400034: egg_base_11
+    400036: egg_base_12
+    400038: egg_base_13
+    400040: egg_base_14
+    400042: egg_base_2
+    400044: egg_base_3
+    400046: egg_base_4
+    400048: egg_base_5
+    400050: egg_base_6
+    400052: egg_base_7
+    400054: egg_base_8
+    400056: egg_base_9
+    400058: platform
+    2300000: egg_1
+    2300002: egg_10
+    2300004: egg_11
+    2300006: egg_12
+    2300008: egg_13
+    2300010: egg_14
+    2300012: egg_2
+    2300014: egg_3
+    2300016: egg_4
+    2300018: egg_5
+    2300020: egg_6
+    2300022: egg_7
+    2300024: egg_8
+    2300026: egg_9
+    2300028: egg_base_1
+    2300030: egg_base_10
+    2300032: egg_base_11
+    2300034: egg_base_12
+    2300036: egg_base_13
+    2300038: egg_base_14
+    2300040: egg_base_2
+    2300042: egg_base_3
+    2300044: egg_base_4
+    2300046: egg_base_5
+    2300048: egg_base_6
+    2300050: egg_base_7
+    2300052: egg_base_8
+    2300054: egg_base_9
+    2300056: platform
+    3300000: egg_1
+    3300002: egg_10
+    3300004: egg_11
+    3300006: egg_12
+    3300008: egg_13
+    3300010: egg_14
+    3300012: egg_2
+    3300014: egg_3
+    3300016: egg_4
+    3300018: egg_5
+    3300020: egg_6
+    3300022: egg_7
+    3300024: egg_8
+    3300026: egg_9
+    3300028: egg_base_1
+    3300030: egg_base_10
+    3300032: egg_base_11
+    3300034: egg_base_12
+    3300036: egg_base_13
+    3300038: egg_base_14
+    3300040: egg_base_2
+    3300042: egg_base_3
+    3300044: egg_base_4
+    3300046: egg_base_5
+    3300048: egg_base_6
+    3300050: egg_base_7
+    3300052: egg_base_8
+    3300054: egg_base_9
+    3300056: platform
+    4300000: platform
+    4300002: egg_14
+    4300004: egg_base_14
+    4300006: egg_1
+    4300008: egg_base_1
+    4300010: egg_2
+    4300012: egg_base_2
+    4300014: egg_3
+    4300016: egg_base_3
+    4300018: egg_4
+    4300020: egg_base_4
+    4300022: egg_5
+    4300024: egg_base_5
+    4300026: egg_6
+    4300028: egg_base_6
+    4300030: egg_7
+    4300032: egg_base_7
+    4300034: egg_8
+    4300036: egg_base_8
+    4300038: egg_9
+    4300040: egg_base_9
+    4300042: egg_10
+    4300044: egg_base_10
+    4300046: egg_11
+    4300048: egg_base_11
+    4300050: egg_12
+    4300052: egg_base_12
+    4300054: egg_13
+    4300056: egg_base_13
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 6
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
