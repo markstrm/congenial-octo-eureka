@@ -1,0 +1,948 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.17f1 (a4537701e4ab) revision 10769271'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'sv' Physical Memory: 16317 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.17f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Dokument/Github/congenial-octo-eureka/advancedgamedesign_testing
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54949
+Successfully changed project path to: D:/Dokument/Github/congenial-octo-eureka/advancedgamedesign_testing
+D:/Dokument/Github/congenial-octo-eureka/advancedgamedesign_testing
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.17f1 (a4537701e4ab)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Dokument/Github/congenial-octo-eureka/advancedgamedesign_testing/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   
+    VRAM:     8088 MB
+    Driver:   30.0.14.7168
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56140
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.17f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002485 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 43.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.579 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1579ms)
+		BeginReloadAssembly (79ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (542ms)
+			LoadAssemblies (76ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (188ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (224ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (44ms)
+				BeforeProcessingInitializeOnLoad (29ms)
+				ProcessInitializeOnLoadAttributes (112ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004162 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.935 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1936ms)
+		BeginReloadAssembly (318ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (19ms)
+		EndReloadAssembly (1501ms)
+			LoadAssemblies (189ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (552ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (536ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (121ms)
+				ProcessInitializeOnLoadAttributes (387ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1397 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65.1 MB.
+System memory in use after: 65.1 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1829.
+Total: 2.866500 ms (FindLiveObjects: 0.139600 ms CreateObjectMapping: 0.044000 ms MarkObjects: 2.561100 ms  DeleteObjects: 0.120800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Giger_Style_Materials/Demo_scene_items
+  artifactKey: Guid(054c7d1a13c41954c9c8e57f75e2a146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Demo_scene_items using Guid(054c7d1a13c41954c9c8e57f75e2a146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4cecc9f5321629abf6f1e84456c858') in 0.005403 seconds 
+  Import took 0.008258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Giger_Style_Materials/Materials
+  artifactKey: Guid(adef9498a9bbcf54e8d65004e16effae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials using Guid(adef9498a9bbcf54e8d65004e16effae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42dd761c0b9bac61261617c7106a2148') in 0.001738 seconds 
+  Import took 0.003764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Giger_Style_Materials
+  artifactKey: Guid(efd5b91b71549414aac0c941dd306ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials using Guid(efd5b91b71549414aac0c941dd306ec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7739f710f9a580e64ef8bdbeeb846560') in 0.002412 seconds 
+  Import took 0.006240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.096454 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox
+  artifactKey: Guid(a0cb4a31a102804419015dd130231d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox using Guid(a0cb4a31a102804419015dd130231d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35102b50b4fbec592adad6da5a662c0a') in 0.004676 seconds 
+  Import took 0.008235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002455 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox
+  artifactKey: Guid(a0cb4a31a102804419015dd130231d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox using Guid(a0cb4a31a102804419015dd130231d34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35102b50b4fbec592adad6da5a662c0a') in 0.002915 seconds 
+  Import took 0.005761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043270 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox/Chamber_skybox.mat
+  artifactKey: Guid(0b0e7987760e7f640917ab417dfd3657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox/Chamber_skybox.mat using Guid(0b0e7987760e7f640917ab417dfd3657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50d96ddfc5d533008c6e0471d2c990a1') in 0.494909 seconds 
+  Import took 0.499252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.689581 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_front.png
+  artifactKey: Guid(ad1971a3185ae1342b432b4cdc2e1f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_front.png using Guid(ad1971a3185ae1342b432b4cdc2e1f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e680e1f8d72250062562cb6a0eee5702') in 0.157528 seconds 
+  Import took 0.160643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000468 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_back.png
+  artifactKey: Guid(12fe7c1a8add9a3418c7bb268b0cbd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_back.png using Guid(12fe7c1a8add9a3418c7bb268b0cbd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24667521ae453c8f00f79b9265f95276') in 0.011016 seconds 
+  Import took 0.014717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_down.png
+  artifactKey: Guid(da97535c514d8e249bc57ddb3dd9a9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_down.png using Guid(da97535c514d8e249bc57ddb3dd9a9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb7601f8e5d0d0b9eac6444a54129cc') in 0.021701 seconds 
+  Import took 0.024580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_back.png
+  artifactKey: Guid(12fe7c1a8add9a3418c7bb268b0cbd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_back.png using Guid(12fe7c1a8add9a3418c7bb268b0cbd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24667521ae453c8f00f79b9265f95276') in 0.018697 seconds 
+  Import took 0.021948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_right.png
+  artifactKey: Guid(44c0c9f7142c2414a819a58560557eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_right.png using Guid(44c0c9f7142c2414a819a58560557eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c252eeadc1212c2991d02e7d5cea64') in 0.010052 seconds 
+  Import took 0.013866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001195 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_up.png
+  artifactKey: Guid(0f98640f8ee391141972293b44840198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_up.png using Guid(0f98640f8ee391141972293b44840198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c3fcfe550c1ae787c5e88d0b796265') in 0.012519 seconds 
+  Import took 0.015989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_front.png
+  artifactKey: Guid(ad1971a3185ae1342b432b4cdc2e1f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_front.png using Guid(ad1971a3185ae1342b432b4cdc2e1f1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e680e1f8d72250062562cb6a0eee5702') in 0.015090 seconds 
+  Import took 0.019163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002612 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_left.png
+  artifactKey: Guid(3a75d99331e1b2c46a70ca63e02246e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures/chamber_left.png using Guid(3a75d99331e1b2c46a70ca63e02246e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4423ff3cb04e9c98d55eb9a3e2f1fae4') in 0.018836 seconds 
+  Import took 0.021556 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.887086 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures
+  artifactKey: Guid(a4ca6296cef4d1643ad426e0ab023bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Chamber_skybox/Textures using Guid(a4ca6296cef4d1643ad426e0ab023bc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee2b3c7cfb3d253f4c3046996634817') in 0.004058 seconds 
+  Import took 0.006597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.449017 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Desert_skybox
+  artifactKey: Guid(aee93aa10fe04924c8895767361d000e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Desert_skybox using Guid(aee93aa10fe04924c8895767361d000e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6c6d019a88db60a5f0d6f853873bbdd') in 0.002380 seconds 
+  Import took 0.008056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012522 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Desert_skybox
+  artifactKey: Guid(aee93aa10fe04924c8895767361d000e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Desert_skybox using Guid(aee93aa10fe04924c8895767361d000e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6c6d019a88db60a5f0d6f853873bbdd') in 0.001808 seconds 
+  Import took 0.004348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044097 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Desert_skybox/Desert_skybox.mat
+  artifactKey: Guid(2ec55c44ea4faf542a51f87a5958f976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Desert_skybox/Desert_skybox.mat using Guid(2ec55c44ea4faf542a51f87a5958f976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc0773e007118a0e47b6bb6206200644') in 0.020521 seconds 
+  Import took 0.023573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.547153 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_front.png
+  artifactKey: Guid(d8c8d264c40b04c4ba7d723311e919c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_front.png using Guid(d8c8d264c40b04c4ba7d723311e919c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ee7fc70445f89fa550dadabedce183') in 0.016391 seconds 
+  Import took 0.021136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_up.png
+  artifactKey: Guid(50af2d4d5c3aeef468f6f34e3f27f89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_up.png using Guid(50af2d4d5c3aeef468f6f34e3f27f89c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef1969cc1c075a91378b415d6b8cda0') in 0.011104 seconds 
+  Import took 0.013879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_right.png
+  artifactKey: Guid(8608ea03cb97bd34f849ccc4bc30baee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_right.png using Guid(8608ea03cb97bd34f849ccc4bc30baee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33cce07807d2e3510d24cf8f90d181e3') in 0.016527 seconds 
+  Import took 0.020005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_left.png
+  artifactKey: Guid(8b903a348cb568f4cbb64a026c2f81ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_left.png using Guid(8b903a348cb568f4cbb64a026c2f81ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26aed5fd0b25754bbd22c49672ec2ef') in 0.015236 seconds 
+  Import took 0.019007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_down.png
+  artifactKey: Guid(2e16ada99713b8340a6b642ae274a8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_down.png using Guid(2e16ada99713b8340a6b642ae274a8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd477e33ae9c2f0bc0bffa8f10554d24') in 0.012284 seconds 
+  Import took 0.016315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_back.png
+  artifactKey: Guid(9c1eda467f5c7804abe93f3529733a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_back.png using Guid(9c1eda467f5c7804abe93f3529733a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '645cf27ac1d1c386b61875a2617edbdc') in 0.012830 seconds 
+  Import took 0.016816 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_front.png
+  artifactKey: Guid(d8c8d264c40b04c4ba7d723311e919c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Desert_skybox/Textures/desert_front.png using Guid(d8c8d264c40b04c4ba7d723311e919c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47ee7fc70445f89fa550dadabedce183') in 0.029022 seconds 
+  Import took 0.031302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.688082 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_1
+  artifactKey: Guid(6cb2d0a309776604a94cc3beccde4fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_1 using Guid(6cb2d0a309776604a94cc3beccde4fdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4f621388f96ffe092a0d4039f6c2c38') in 0.003373 seconds 
+  Import took 0.006358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.508892 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/GS_dark_1.mat
+  artifactKey: Guid(2515adbdcf8b43742a828901efd3d6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/GS_dark_1.mat using Guid(2515adbdcf8b43742a828901efd3d6c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e92d579cba4b5be98d71630a499eec9') in 0.328106 seconds 
+  Import took 0.331811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.186394 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures
+  artifactKey: Guid(753889b0865680345a1046da172e3657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures using Guid(753889b0865680345a1046da172e3657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd40ec0fb5000a945a1ec83a1ed542e94') in 0.006490 seconds 
+  Import took 0.011454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052661 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures/GS_dark_1_Albedo.png
+  artifactKey: Guid(b60378f5981ffc14b8733216445a0ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures/GS_dark_1_Albedo.png using Guid(b60378f5981ffc14b8733216445a0ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369c994e8cd3c48ab720134e65867105') in 0.009173 seconds 
+  Import took 0.013190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures/GS_dark_1_Occlusion.png
+  artifactKey: Guid(655856a257769444aa21f3e3d85a8696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures/GS_dark_1_Occlusion.png using Guid(655856a257769444aa21f3e3d85a8696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5016793954750d6af88ea026452f0669') in 0.010804 seconds 
+  Import took 0.013330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000581 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures/GS_dark_1_Height.png
+  artifactKey: Guid(36d5fb6379e3e464891c206b6765bcfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures/GS_dark_1_Height.png using Guid(36d5fb6379e3e464891c206b6765bcfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '017a6b929eb43a37c024e23d242bb056') in 0.016289 seconds 
+  Import took 0.019857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000376 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures/GS_dark_1_Specular.png
+  artifactKey: Guid(b1f2e29df5c40314d9713fb31b23f35b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures/GS_dark_1_Specular.png using Guid(b1f2e29df5c40314d9713fb31b23f35b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f18af44485050d89c5091fc93fb4ea7') in 0.011645 seconds 
+  Import took 0.019178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures/GS_dark_1_Normal.png
+  artifactKey: Guid(cb89dd7542340ca4f8d87363fb6bb87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_1/Textures/GS_dark_1_Normal.png using Guid(cb89dd7542340ca4f8d87363fb6bb87c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92727752777c73f1d1ed8a30de0c9245') in 0.035242 seconds 
+  Import took 0.038989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.100298 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_2
+  artifactKey: Guid(0166c22d4d88e534abc276e52b60a409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_2 using Guid(0166c22d4d88e534abc276e52b60a409) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3f36ba0bc7e7980b481fc921ea2c651') in 0.002525 seconds 
+  Import took 0.006198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056047 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_2/GS_dark_2.mat
+  artifactKey: Guid(e0fe1d440c3bcc64b882a811f6ee3c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_2/GS_dark_2.mat using Guid(e0fe1d440c3bcc64b882a811f6ee3c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117245c68fa7e1ca65fe4b058f0bf7be') in 0.139581 seconds 
+  Import took 0.142534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.506710 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_3
+  artifactKey: Guid(df2d81d07698c5046a7f1d37a29f7953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_3 using Guid(df2d81d07698c5046a7f1d37a29f7953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79fbc38cd5262dca6c9e313fefe9e4f7') in 0.002392 seconds 
+  Import took 0.006754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001306 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_3
+  artifactKey: Guid(df2d81d07698c5046a7f1d37a29f7953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_3 using Guid(df2d81d07698c5046a7f1d37a29f7953) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79fbc38cd5262dca6c9e313fefe9e4f7') in 0.003079 seconds 
+  Import took 0.007722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069820 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_3/GS_dark_3.mat
+  artifactKey: Guid(6cbddccc74f5fc843a12645b90f2b521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_3/GS_dark_3.mat using Guid(6cbddccc74f5fc843a12645b90f2b521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a14a24c4aa1f37c14c04a35cf15ccfc') in 0.033220 seconds 
+  Import took 0.036068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.815697 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_4
+  artifactKey: Guid(5c01a1d5153717647b4d084613516b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_4 using Guid(5c01a1d5153717647b4d084613516b3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd23860aef59015171e93a6a5c60353f1') in 0.005616 seconds 
+  Import took 0.008674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028101 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_4/GS_dark_4.mat
+  artifactKey: Guid(adf30bc8402df5c4f834ddf1bd0dcd15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_4/GS_dark_4.mat using Guid(adf30bc8402df5c4f834ddf1bd0dcd15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81bf4dae93515b86d1c3c33e0bf0b913') in 0.019072 seconds 
+  Import took 0.048518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.117735 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_5
+  artifactKey: Guid(82087bbd470fc114d9374cc40124cbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_5 using Guid(82087bbd470fc114d9374cc40124cbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43066c4787723d21c076d5fd0c636b94') in 0.004106 seconds 
+  Import took 0.008563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001633 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_5
+  artifactKey: Guid(82087bbd470fc114d9374cc40124cbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_5 using Guid(82087bbd470fc114d9374cc40124cbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43066c4787723d21c076d5fd0c636b94') in 0.002070 seconds 
+  Import took 0.005344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.636966 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_5/GS_dark_5.mat
+  artifactKey: Guid(74d5eb96f57935d4eacc962d5c34b1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_5/GS_dark_5.mat using Guid(74d5eb96f57935d4eacc962d5c34b1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '553023f326649a15d8d4112bf6b8ab80') in 0.019064 seconds 
+  Import took 0.021917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 121.937643 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_6
+  artifactKey: Guid(76d4da01b61ef2947be2560b1d4378a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_6 using Guid(76d4da01b61ef2947be2560b1d4378a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f62ac682c6dd50e56d6ab3a3d38813') in 0.002217 seconds 
+  Import took 0.008452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000828 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_6
+  artifactKey: Guid(76d4da01b61ef2947be2560b1d4378a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_6 using Guid(76d4da01b61ef2947be2560b1d4378a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24f62ac682c6dd50e56d6ab3a3d38813') in 0.002925 seconds 
+  Import took 0.006238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069274 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_6/GS_dark_6.mat
+  artifactKey: Guid(a4ce909ac1710bb49bf7aa5891929688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_6/GS_dark_6.mat using Guid(a4ce909ac1710bb49bf7aa5891929688) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a870d893374f177950f7ad1aadfd77f') in 0.020672 seconds 
+  Import took 0.023877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.806527 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_7
+  artifactKey: Guid(f1e4dbc1785062a40b5060296cdc6498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_7 using Guid(f1e4dbc1785062a40b5060296cdc6498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '355d4c765dd76da3639e5ee7eca2fe11') in 0.002067 seconds 
+  Import took 0.005976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.248123 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_7/GS_dark_7.mat
+  artifactKey: Guid(aaa508d93bfc0484494b7298f0875eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_7/GS_dark_7.mat using Guid(aaa508d93bfc0484494b7298f0875eac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a3c9f873d33b93d44379483989e013f') in 0.018744 seconds 
+  Import took 0.021929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.891091 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_8
+  artifactKey: Guid(5fb00f2b080e3d148a4addc334b26056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_8 using Guid(5fb00f2b080e3d148a4addc334b26056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db4e391055479dcedb548afa967b6ce') in 0.002569 seconds 
+  Import took 0.006535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.181681 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_8/GS_dark_8.mat
+  artifactKey: Guid(fd8c4eee2114b7d46bf89936c75556f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_8/GS_dark_8.mat using Guid(fd8c4eee2114b7d46bf89936c75556f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baae059f32aa254985bf6c6b7c924649') in 0.019212 seconds 
+  Import took 0.022535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.682350 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_9
+  artifactKey: Guid(5421f38baac35c24fb802c978a30e170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_9 using Guid(5421f38baac35c24fb802c978a30e170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f05edf4e306908531581f1572266555') in 0.003758 seconds 
+  Import took 0.006551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.722496 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_9/GS_dark_9.mat
+  artifactKey: Guid(4e3fd9edb7b9644419d5c7aa7b4c5a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_9/GS_dark_9.mat using Guid(4e3fd9edb7b9644419d5c7aa7b4c5a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184f9256a53b2afd1ab4f72d751b8c6b') in 0.019121 seconds 
+  Import took 0.022319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.421178 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_10
+  artifactKey: Guid(1bd07cfff2de30a49b9315a067f8e435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_10 using Guid(1bd07cfff2de30a49b9315a067f8e435) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c02469312f89d7e568d48a3a0582102') in 0.002636 seconds 
+  Import took 0.006828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067317 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_dark_10/GS_dark_10.mat
+  artifactKey: Guid(4a1805acabdb68d49b474831c9794397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_dark_10/GS_dark_10.mat using Guid(4a1805acabdb68d49b474831c9794397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e74b0f057813ab40f5f291da18db3b5f') in 0.019785 seconds 
+  Import took 0.022965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.728198 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_1
+  artifactKey: Guid(03f7594742a30f0468b68de7a16a77d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_1 using Guid(03f7594742a30f0468b68de7a16a77d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e933c7b636d6c88007b72257678bb41e') in 0.002486 seconds 
+  Import took 0.005306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057819 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_1/GS_metal_1.mat
+  artifactKey: Guid(ddb81df3bc9ec9a4ebdc00ffdb24ca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_1/GS_metal_1.mat using Guid(ddb81df3bc9ec9a4ebdc00ffdb24ca83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2379c39a0640d03c81292e816f40090') in 0.023859 seconds 
+  Import took 0.027233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.576562 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_2
+  artifactKey: Guid(9775923171e8a174997b522ed895fde9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_2 using Guid(9775923171e8a174997b522ed895fde9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91bcdfe5789221bd60565cc474642797') in 0.002559 seconds 
+  Import took 0.005408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.401650 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_2/GS_metal_2.mat
+  artifactKey: Guid(34d68700f17baa4459ebc57617235b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_2/GS_metal_2.mat using Guid(34d68700f17baa4459ebc57617235b84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '166c11cc160a77aaa4ffc1ec0cfcf5b7') in 0.030741 seconds 
+  Import took 0.033681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.488159 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_3
+  artifactKey: Guid(498349fca40b3954abe4d1b0aa0f16e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_3 using Guid(498349fca40b3954abe4d1b0aa0f16e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da0664a907bfdd35c20d48aea8e0740f') in 0.003716 seconds 
+  Import took 0.006693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043069 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_3/GS_metal_3.mat
+  artifactKey: Guid(c69174bdb7a20be44a4c5ad2e5b6359e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_3/GS_metal_3.mat using Guid(c69174bdb7a20be44a4c5ad2e5b6359e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6858fba6fad777d80c538919bb28ac2') in 0.028586 seconds 
+  Import took 0.031921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.354332 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_4
+  artifactKey: Guid(afef83b9924e36a48b5785e581eefcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_4 using Guid(afef83b9924e36a48b5785e581eefcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f6b580900536eda7fe255820d2a6176') in 0.004242 seconds 
+  Import took 0.008403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_4
+  artifactKey: Guid(afef83b9924e36a48b5785e581eefcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_4 using Guid(afef83b9924e36a48b5785e581eefcc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f6b580900536eda7fe255820d2a6176') in 0.002256 seconds 
+  Import took 0.005494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045477 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_4/GS_metal_4.mat
+  artifactKey: Guid(2bb1f03477c42cc458545dac29cdfc36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_4/GS_metal_4.mat using Guid(2bb1f03477c42cc458545dac29cdfc36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ab6c71373c670cf27ae0247718ed3e') in 0.017754 seconds 
+  Import took 0.021501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.571011 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_5
+  artifactKey: Guid(c7968bf2626246e4eb508808a03fdc9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_5 using Guid(c7968bf2626246e4eb508808a03fdc9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18659dcad837926f684794746dbce85a') in 0.003842 seconds 
+  Import took 0.006889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060898 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_5/GS_metal_5.mat
+  artifactKey: Guid(a6ee57a6bf750f64b86ff96a685648ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_5/GS_metal_5.mat using Guid(a6ee57a6bf750f64b86ff96a685648ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7c6374f1acd69011ace1312feae561b') in 0.019334 seconds 
+  Import took 0.022394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.082716 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_6
+  artifactKey: Guid(94ae656dccc0f1c489bbddd5af43658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_6 using Guid(94ae656dccc0f1c489bbddd5af43658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20b4a853c9cf1551ad16c1203a1a11d1') in 0.003287 seconds 
+  Import took 0.008052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.114654 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_6/GS_metal_6.mat
+  artifactKey: Guid(60ad0dde873ecc942a21f66e1268c2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_6/GS_metal_6.mat using Guid(60ad0dde873ecc942a21f66e1268c2d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93283508cc6ad7530fda0240d3730a4') in 0.028388 seconds 
+  Import took 0.032363 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.047445 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_7
+  artifactKey: Guid(3cb96e62aa621f34b83629bffd09462b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_7 using Guid(3cb96e62aa621f34b83629bffd09462b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fba09406c14410b3033a24d75f17176a') in 0.002614 seconds 
+  Import took 0.006407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.415333 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_7/GS_metal_7.mat
+  artifactKey: Guid(a72d604953f310f40a20658e23ab93fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_7/GS_metal_7.mat using Guid(a72d604953f310f40a20658e23ab93fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0948d723f2419e979d4f209d00c958fa') in 0.037802 seconds 
+  Import took 0.040918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.850699 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_8
+  artifactKey: Guid(1bf8a8992997e3440b37a6f2acf35ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_8 using Guid(1bf8a8992997e3440b37a6f2acf35ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '035b0fb2cfab37f2180ba5d3e2306232') in 0.002576 seconds 
+  Import took 0.006108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044970 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_8/GS_metal_8.mat
+  artifactKey: Guid(dbfb9cf08bb61c645894afe808917b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_8/GS_metal_8.mat using Guid(dbfb9cf08bb61c645894afe808917b20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fcb27d659fe13f68568f441a5eb237f') in 0.020279 seconds 
+  Import took 0.024116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.778958 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_9
+  artifactKey: Guid(975b7a3d62614744d8bffce8f9d476cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_9 using Guid(975b7a3d62614744d8bffce8f9d476cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd85f6f92d6118c0890760cf3f887992') in 0.003839 seconds 
+  Import took 0.009768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_9
+  artifactKey: Guid(975b7a3d62614744d8bffce8f9d476cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_9 using Guid(975b7a3d62614744d8bffce8f9d476cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd85f6f92d6118c0890760cf3f887992') in 0.001618 seconds 
+  Import took 0.005330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042490 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_9/GS_metal_9.mat
+  artifactKey: Guid(becc8bcbb290d784c851e38fc67bfe73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_9/GS_metal_9.mat using Guid(becc8bcbb290d784c851e38fc67bfe73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f87d81ad3801053d7d648b32929b2498') in 0.032396 seconds 
+  Import took 0.035498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.345284 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_10
+  artifactKey: Guid(349cb3310aebb074394831ca4f780043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_10 using Guid(349cb3310aebb074394831ca4f780043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e4194b38411fde12846bba504877f31') in 0.003240 seconds 
+  Import took 0.006102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055512 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_metal_10/GS_metal_10.mat
+  artifactKey: Guid(60b6b37ba19579341beb442a6dd56263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_metal_10/GS_metal_10.mat using Guid(60b6b37ba19579341beb442a6dd56263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f26a1298d9920b5af647dd1e6cfd5ef') in 0.021922 seconds 
+  Import took 0.025286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.952685 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_1
+  artifactKey: Guid(4fc6bf088a6578944845c3227e276de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_1 using Guid(4fc6bf088a6578944845c3227e276de5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77f93e3b97daf63264d709909e5c5a65') in 0.002400 seconds 
+  Import took 0.006523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049876 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_1/GS_organic_1.mat
+  artifactKey: Guid(173ddb4ee9257544fb41887013080684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_1/GS_organic_1.mat using Guid(173ddb4ee9257544fb41887013080684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b572887c75560bd486afd86d73678327') in 0.021010 seconds 
+  Import took 0.024236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.935759 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_2
+  artifactKey: Guid(8c226bef8ad8e94479fb89400b310198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_2 using Guid(8c226bef8ad8e94479fb89400b310198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a164ff48a1c5100f586e56cef56a5807') in 0.003019 seconds 
+  Import took 0.006609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061340 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_2/GS_organic_2.mat
+  artifactKey: Guid(897c247058195eb46adaeeb47cf60b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_2/GS_organic_2.mat using Guid(897c247058195eb46adaeeb47cf60b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40c0dce3753cdb175c0ec14e4a3dbcf6') in 0.022246 seconds 
+  Import took 0.025773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.768972 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_3
+  artifactKey: Guid(26d75dc7b238f1b4a83f494f7501e853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_3 using Guid(26d75dc7b238f1b4a83f494f7501e853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a379ae0b459e9a71c3dafb0a528ea9d5') in 0.002586 seconds 
+  Import took 0.006353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.311606 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_3/GS_organic_3.mat
+  artifactKey: Guid(cce6ad9e8bdd68346afed5a4c2618acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_3/GS_organic_3.mat using Guid(cce6ad9e8bdd68346afed5a4c2618acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6796492f5226d1ab7b66f23a8e8a046') in 0.018070 seconds 
+  Import took 0.021055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.800722 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_4
+  artifactKey: Guid(896e8b1b20fd77d419be4ae16f83742b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_4 using Guid(896e8b1b20fd77d419be4ae16f83742b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f7ae08d6993b2f1dd86a69c6c30956f') in 0.002711 seconds 
+  Import took 0.006372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.457812 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_4/GS_organic_4.mat
+  artifactKey: Guid(e727e028e7d6dcd47800a1006c43415f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_4/GS_organic_4.mat using Guid(e727e028e7d6dcd47800a1006c43415f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '567978bf37881ed109aad7f84f6ba5f8') in 0.022299 seconds 
+  Import took 0.025685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.548078 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_5
+  artifactKey: Guid(2f85740defbfaf749be4f01d0e8af4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_5 using Guid(2f85740defbfaf749be4f01d0e8af4b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f173df784c76ecf4cc9e248a66797db5') in 0.002508 seconds 
+  Import took 0.007141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030090 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_5/GS_organic_5.mat
+  artifactKey: Guid(b996db2b06048f54185ea7ef4528f576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_5/GS_organic_5.mat using Guid(b996db2b06048f54185ea7ef4528f576) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2001cec0383e37f9a302591374d98296') in 0.020390 seconds 
+  Import took 0.024322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.569487 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_6
+  artifactKey: Guid(6325feba5561e4b49a2f5918b59e8c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_6 using Guid(6325feba5561e4b49a2f5918b59e8c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c93d3070470cdf207d1cd7617fc639f') in 0.002613 seconds 
+  Import took 0.007120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028986 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_6/GS_organic_6.mat
+  artifactKey: Guid(ed81cf35e94c835429c53a1cf758002c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_6/GS_organic_6.mat using Guid(ed81cf35e94c835429c53a1cf758002c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f27f3c070c41b5e75ee0d17d6afca4') in 0.020077 seconds 
+  Import took 0.023110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.230804 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_7
+  artifactKey: Guid(bbfe6801dfb0c3b41aaae681c6664e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_7 using Guid(bbfe6801dfb0c3b41aaae681c6664e14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5541d90e96cecc0b4a35237dab7f580e') in 0.002361 seconds 
+  Import took 0.005973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066677 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_7/GS_organic_7.mat
+  artifactKey: Guid(432a7cfd05bcc3e418084993f1583d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_7/GS_organic_7.mat using Guid(432a7cfd05bcc3e418084993f1583d9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c0a349fbb848a0884ce7e3bad16edd5') in 0.019326 seconds 
+  Import took 0.022246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.883878 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_8
+  artifactKey: Guid(67c887562bff9d74280747ca33c5bc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_8 using Guid(67c887562bff9d74280747ca33c5bc46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ebabfa3fa924ae5c1421cb73dc424f7') in 0.002559 seconds 
+  Import took 0.006446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065386 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_8/GS_organic_8.mat
+  artifactKey: Guid(adbf00a352e02d14995b21373ecfa276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_8/GS_organic_8.mat using Guid(adbf00a352e02d14995b21373ecfa276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ebda1fad48cad35e8afc34727a77d1') in 0.021669 seconds 
+  Import took 0.024641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.186735 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_9
+  artifactKey: Guid(507615915dcde464fbe3398221638c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_9 using Guid(507615915dcde464fbe3398221638c87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '668064527069480c692737f51d833082') in 0.003470 seconds 
+  Import took 0.006160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066686 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_9/GS_organic_9.mat
+  artifactKey: Guid(d5593ef204f50d749a9c6a591f166a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_9/GS_organic_9.mat using Guid(d5593ef204f50d749a9c6a591f166a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7692c018e15a99d5351c609894b8b5f9') in 0.019985 seconds 
+  Import took 0.023584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.577590 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_10
+  artifactKey: Guid(1093bf1aeb628cf43824d9178c63fe59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_10 using Guid(1093bf1aeb628cf43824d9178c63fe59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd344a1d3b07c2915300079697b704e') in 0.003879 seconds 
+  Import took 0.006563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044737 seconds.
+  path: Assets/Giger_Style_Materials/Materials/Giger_style_organic_10/GS_organic_10.mat
+  artifactKey: Guid(662f15db22dac4e409e68bfbfef8f78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Materials/Giger_style_organic_10/GS_organic_10.mat using Guid(662f15db22dac4e409e68bfbfef8f78f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1013a5d1147e5a78debf2686fab836da') in 0.019545 seconds 
+  Import took 0.023009 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.212171 seconds.
+  path: Assets/Giger_Style_Materials/Demo_scene_items/all_materials.fbx
+  artifactKey: Guid(16cb6ca7fccd2bd49a98d36479269d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Demo_scene_items/all_materials.fbx using Guid(16cb6ca7fccd2bd49a98d36479269d33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a66be024e47b3b1cf35fa45582d5ec') in 0.459114 seconds 
+  Import took 0.462553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Giger_Style_Materials/Demo_scene_items/test_scene_eggs.fbx
+  artifactKey: Guid(b6a310bcbbf264948b651c62da5a5632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Demo_scene_items/test_scene_eggs.fbx using Guid(b6a310bcbbf264948b651c62da5a5632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3993a656020961828d52b8c817c29c4') in 0.266000 seconds 
+  Import took 0.268825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Giger_Style_Materials/Demo_scene_items/test_scene_primitives_prefab.prefab
+  artifactKey: Guid(d75a398a736c6ec4daae69a7d1ef6d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Demo_scene_items/test_scene_primitives_prefab.prefab using Guid(d75a398a736c6ec4daae69a7d1ef6d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70a257775b62cb7c194d1a77df290456') in 0.114488 seconds 
+  Import took 0.123744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Giger_Style_Materials/Demo_scene_items/all_materials_prefab.prefab
+  artifactKey: Guid(32b3abbb60e987d4996d69dd6464c547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Demo_scene_items/all_materials_prefab.prefab using Guid(32b3abbb60e987d4996d69dd6464c547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8a48cb90f14a1129579b5af126496df') in 0.636629 seconds 
+  Import took 0.680971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Giger_Style_Materials/Demo_scene_items/test_scene_eggs_prefab.prefab
+  artifactKey: Guid(3cf11025e160bfb4cb64c74546fc560d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Demo_scene_items/test_scene_eggs_prefab.prefab using Guid(3cf11025e160bfb4cb64c74546fc560d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '045d7f58afebf0fc0bf238ea32e093c6') in 0.171390 seconds 
+  Import took 0.186512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Giger_Style_Materials/Demo_scene_items/test_scene_primitives.fbx
+  artifactKey: Guid(d2233b4ba63ee8d4282796ed709dfa53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Giger_Style_Materials/Demo_scene_items/test_scene_primitives.fbx using Guid(d2233b4ba63ee8d4282796ed709dfa53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b8528ae2d454bb1ec314e37bcb08a76') in 0.060538 seconds 
+  Import took 0.063188 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
